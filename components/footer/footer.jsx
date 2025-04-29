@@ -83,7 +83,7 @@ function Footer() {
                 </div>
                 
             </div>
-            <div className="pt-4 pt-6 mt-10 text-center text-gray-500 border-t border-gray-100"> All rights reserved.</div> 
+            <div className="pt-6 mt-10 text-center text-gray-500 border-t border-gray-100"> All rights reserved.</div> 
         </section>
 
     )

@@ -2,7 +2,7 @@ import React from 'react'
 
 function Testimonial() {
     return (
-        <section className="border-t border-gray-200 pt-40 pb-40">
+        <section className="border-t border-gray-200 pt-40 pb-40" id="testimonial">
             <div className="container mx-auto"> {/* To center a container mx-auto */}
                 <div className="items-center">
 

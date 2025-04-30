@@ -2,7 +2,7 @@ import React from 'react'
 
 function Features() {
   return (
-    <section className="border-t border-gray-200 pt-40 pb-40">
+    <section className="border-t border-gray-200 pt-40 pb-40"  id="features">
       <div className="container mx-auto"> 
         <div className="items-center">
           <h2 className="font-medium text-indigo-500 uppercase text-center">Our Features</h2>

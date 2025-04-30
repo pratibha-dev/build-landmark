@@ -4,7 +4,7 @@ import React from 'react'
 
 function Header() {
     return (
-        
+
         <nav className="bg-white-800 p-4">
             <div>
                 <img src="/images/header.svg" className="absolute -top-59 -right-41 w-100vw max-w-4xl -z-1" />
@@ -16,9 +16,9 @@ function Header() {
                 </a>
                 <div className="hidden md:flex flex-1 space-x-6 items-center">{/* by default hidden, medium screens flex, Makes this div take up all available space,(flex-1)pushing the menu items to the center */}
                     <Link href="/" className="text-gray-800 hover:text-indigo-600 font-bold">Home</Link>
-                    <Link href="/about" className="text-gray-800 hover:text-indigo-600 font-bold">About</Link>
-                    <Link href="/services" className="text-gray-800 hover:text-indigo-600 font-bold">Services</Link>
-                    <Link href="/contact" className="text-gray-800 hover:text-indigo-600 font-bold">Contact</Link>
+                    <Link href="#features" className="text-gray-800 hover:text-indigo-600 font-bold">Features</Link>
+                    <Link href="#pricing" className="text-gray-800 hover:text-indigo-600 font-bold">Pricing</Link>
+                    <Link href="#testimonial" className="text-gray-800 hover:text-indigo-600 font-bold">Testimonial</Link>
                 </div>
                 <div className="hidden md:flex flex-1 space-x-6 items-center">
                     <Link href="/" className="text-white font-semibold text-sm">Login</Link>

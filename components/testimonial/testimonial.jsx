@@ -7,7 +7,7 @@ function Testimonial() {
                 <div className="items-center">
 
                     <h2 className="font-medium text-indigo-500 uppercase text-center">Our customers love our product</h2>
-                    <h3 className="mb-4 text-5xl font-black text-gray-900 leading-18 text-center">Testimonials</h3>
+                    <h3 className="mb-4 text-6xl font-black text-gray-900 leading-18 text-center">Testimonials</h3>
                     <p className="text-[#4a5565] text-xl mb-6 text-center">Don't just take our word for it, read from our extensive list of case studies and customer testimonials.</p>
                 </div>
                 <div className="flex justify-center">

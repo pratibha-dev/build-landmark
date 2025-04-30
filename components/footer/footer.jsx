@@ -51,9 +51,7 @@ function Footer() {
                                     <li>
                                         <a href="#" className="px-3 py-2 font-medium text-gray-500">Pricing</a>
                                     </li>
-
                                 </ul>
-
                                 <div className="footer-links flex-col p-0 font-medium text-left text-gray-700">
                                     <div className="px-3 py-2 mt-5 font-bold text-gray-800 uppercase"> Follow Us </div>
                                     <div className="px-3 py-2 mt-5 text-gray-200 mx-auto flex justify-center">
@@ -63,29 +61,18 @@ function Footer() {
                                         <a href="#">
                                             <img src="/images/twitter.svg" className="w-5 h-5 mr-6"></img>
                                         </a>
-
-
                                         <a href="#">
                                             <img src="/images/githubicon.svg" className="w-5 h-5"></img>
                                         </a>
                                     </div>
-
                                 </div>
-
-
                             </div>
-
                         </div>
-
-
                     </div>
-
                 </div>
-                
             </div>
-            <div className="pt-6 mt-10 text-center text-gray-500 border-t border-gray-100"> All rights reserved.</div> 
+            <div className="pt-6 mt-10 text-center text-gray-500 border-t border-gray-100"> All rights reserved.</div>
         </section>
-
     )
 }
 

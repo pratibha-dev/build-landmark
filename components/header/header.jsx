@@ -22,7 +22,7 @@ function Header() {
                 </div>
                 <div className="hidden md:flex flex-1 space-x-6 items-center">
                     <Link href="/" className="text-white font-semibold text-sm">Login</Link>
-                    <Link href="/about" className="text-indigo-600 font-semibold bg-white pt-2 pb-2 pr-6 pl-6 rounded">Get Started</Link>
+                    <Link href="/" className="text-indigo-600 font-semibold bg-white pt-2 pb-2 pr-6 pl-6 rounded">Get Started</Link>
                 </div>
             </div>
         </nav>
